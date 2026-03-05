@@ -1,5 +1,5 @@
 {
-  "name": "droidpilot-electron",
+  "name": "droidpilot",
   "private": true,
   "version": "1.0.0",
   "main": "dist-electron/main.js",
